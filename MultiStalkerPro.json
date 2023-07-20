@@ -1,303 +1,301 @@
-[ 
-{
- "http://portal":
- "00:1a:79:00:00:00" 
-}, {
- "http://portal":
- "00:1A:79:A7:E0:C6" 
-}, {
- "http://portal":
- "00:1a:79:00:00:00" 
-}, {
- "http://portal":
- "00:1a:79:00:00:00" 
-}, {
- "http://portal":
- "00:1a:79:00:00:00" 
-}, {
- "http://portal":
- "00:1a:79:00:00:00" 
-}, {
- "http://portal":
- "00:1A:79:A7:E0:C6" 
-}, {
- "http://portal":
- "00:1a:79:00:00:00" 
-}, {
- "http://portal":
- "00:1a:79:00:00:00" 
-}, {
- "http://portal":
- "00:1a:79:00:00:00" 
-}, {
- "http://portal":
- "00:1a:79:00:00:00" 
-}, {
- "http://portal":
- "00:1A:79:A7:E0:C6" 
-}, {
- "http://portal":
- "00:1a:79:00:00:00" 
-}, {
- "http://portal":
- "00:1a:79:00:00:00" 
-}, {
- "http://portal":
- "00:1a:79:00:00:00" 
-}, {
- "http://portal":
- "00:1a:79:00:00:00" 
-}, {
- "http://portal":
- "00:1A:79:A7:E0:C6" 
-}, {
- "http://portal":
- "00:1a:79:00:00:00" 
-}, {
- "http://portal":
- "00:1a:79:00:00:00" 
-}, {
- "http://portal":
- "00:1a:79:00:00:00" 
-}, {
- "http://portal":
- "00:1a:79:00:00:00" 
-}, {
- "http://portal":
- "00:1A:79:A7:E0:C6" 
-}, {
- "http://portal":
- "00:1a:79:00:00:00" 
-}, {
- "http://portal":
- "00:1a:79:00:00:00" 
-}, {
- "http://portal":
- "00:1a:79:00:00:00" 
-}, {
- "http://portal":
- "00:1a:79:00:00:00" 
-}, {
- "http://portal":
- "00:1A:79:A7:E0:C6" 
-}, {
- "http://portal":
- "00:1a:79:00:00:00" 
-}, {
- "http://portal":
- "00:1a:79:00:00:00" 
-}, {
- "http://portal":
- "00:1a:79:00:00:00" 
-}, {
- "http://portal":
- "00:1a:79:00:00:00" 
-}, {
- "http://portal":
- "00:1A:79:A7:E0:C6" 
-}, {
- "http://portal":
- "00:1a:79:00:00:00" 
-}, {
- "http://portal":
- "00:1a:79:00:00:00" 
-}, {
- "http://portal":
- "00:1a:79:00:00:00" 
-}, {
- "http://portal":
- "00:1a:79:00:00:00" 
-}, {
- "http://portal":
- "00:1A:79:A7:E0:C6" 
-}, {
- "http://portal":
- "00:1a:79:00:00:00" 
-}, {
- "http://portal":
- "00:1a:79:00:00:00" 
-}, {
- "http://portal":
- "00:1a:79:00:00:00" 
-}, {
- "http://portal":
- "00:1a:79:00:00:00" 
-}, {
- "http://portal":
- "00:1A:79:A7:E0:C6" 
-}, {
- "http://portal":
- "00:1a:79:00:00:00" 
-}, {
- "http://portal":
- "00:1a:79:00:00:00" 
-}, {
- "http://portal":
- "00:1a:79:00:00:00" 
-}, {
- "http://portal":
- "00:1a:79:00:00:00" 
-}, {
- "http://portal":
- "00:1A:79:A7:E0:C6" 
-}, {
- "http://portal":
- "00:1a:79:00:00:00" 
-}, {
- "http://portal":
- "00:1a:79:00:00:00" 
-}, {
- "http://portal":
- "00:1a:79:00:00:00" 
-}, {
- "http://portal":
- "00:1a:79:00:00:00" 
-}, {
- "http://portal":
- "00:1A:79:A7:E0:C6" 
-}, {
- "http://portal":
- "00:1a:79:00:00:00" 
-}, {
- "http://portal":
- "00:1a:79:00:00:00" 
-}, {
- "http://portal":
- "00:1a:79:00:00:00" 
-}, {
- "http://portal":
- "00:1a:79:00:00:00" 
-}, {
- "http://portal":
- "00:1A:79:A7:E0:C6" 
-}, {
- "http://portal":
- "00:1a:79:00:00:00" 
-}, {
- "http://portal":
- "00:1a:79:00:00:00" 
-}, {
- "http://portal":
- "00:1a:79:00:00:00" 
-}, {
- "http://portal":
- "00:1a:79:00:00:00" 
-}, {
- "http://portal":
- "00:1A:79:A7:E0:C6" 
-}, {
- "http://portal":
- "00:1a:79:00:00:00" 
-}, {
- "http://portal":
- "00:1a:79:00:00:00" 
-}, {
- "http://portal":
- "00:1a:79:00:00:00" 
-}, {
- "http://portal":
- "00:1a:79:00:00:00" 
-}, {
- "http://portal":
- "00:1A:79:A7:E0:C6" 
-}, {
- "http://portal":
- "00:1a:79:00:00:00" 
-}, {
- "http://portal":
- "00:1a:79:00:00:00" 
-}, {
- "http://portal":
- "00:1a:79:00:00:00" 
-}, {
- "http://portal":
- "00:1a:79:00:00:00" 
-}, {
- "http://portal":
- "00:1A:79:A7:E0:C6" 
-}, {
- "http://portal":
- "00:1a:79:00:00:00" 
-}, {
- "http://portal":
- "00:1a:79:00:00:00" 
-}, {
- "http://portal":
- "00:1a:79:00:00:00" 
-}, {
- "http://portal":
- "00:1a:79:00:00:00" 
-}, {
- "http://portal":
- "00:1A:79:A7:E0:C6" 
-}, {
- "http://portal":
- "00:1a:79:00:00:00" 
-}, {
- "http://portal":
- "00:1a:79:00:00:00" 
-}, {
- "http://portal":
- "00:1a:79:00:00:00" 
-}, {
- "http://portal":
- "00:1a:79:00:00:00" 
-}, {
- "http://portal":
- "00:1A:79:A7:E0:C6" 
-}, {
- "http://portal":
- "00:1a:79:00:00:00" 
-}, {
- "http://portal":
- "00:1a:79:00:00:00" 
-}, {
- "http://portal":
- "00:1a:79:00:00:00" 
-}, {
- "http://portal":
- "00:1a:79:00:00:00" 
-}, {
- "http://portal":
- "00:1A:79:A7:E0:C6" 
-}, {
- "http://portal":
- "00:1a:79:00:00:00" 
-}, {
- "http://portal":
- "00:1a:79:00:00:00" 
-}, {
- "http://portal":
- "00:1a:79:00:00:00" 
-}, {
- "http://portal":
- "00:1a:79:00:00:00" 
-}, {
- "http://portal":
- "00:1A:79:A7:E0:C6" 
-}, {
- "http://portal":
- "00:1a:79:00:00:00" 
-}, {
- "http://portal":
- "00:1a:79:00:00:00" 
-}, {
- "http://portal":
- "00:1a:79:00:00:00" 
-}, {
- "http://portal":
- "00:1a:79:00:00:00" 
-}, {
- "http://portal":
- "00:1A:79:A7:E0:C6" 
-}, {
- "http://portal":
- "00:1a:79:00:00:00" 
-}, {
- "http://portal":
- "00:1a:79:00:00:00" 
-}, {
- "هيثم السوداني":
- "00:1a:79:00:00:00" 
-} 
+    
+[
+    {
+        "http://rv.therevenge.co:2083": "00:1A:79:A1:F9:83"
+    },
+    {
+        "http://11223344.co:7355": "00:1A:79:45:A5:52"
+    },
+    {
+        "http://ipc.proipciptv.com:8000": "00:1a:79:43:11:b5"
+    },
+    {
+        "http://kingtop10.net:7070": "00:1A:79:A2:F7:A3"
+    },
+    {
+        "http://psk-sdk.ddno.us:7070": "00:1A:79:55:3A:25"
+    },
+    {
+        "http://o2iptv.com:8080": "00:1A:79:97:23:04"
+    },
+    {        
+        "http://my2ip.net:8000": "00:1A:79:A4:9B:92"
+    },
+    {        
+        "http://king4k.tv:80": "00:1A:79:59:A4:B7"
+    },
+    {        
+        "http://txm1.flysat.live:2089": "00:1a:79:28:a4:81"
+    },
+    {     
+        "http://mymag.tv:8080": "00:1A:79:4e:ce:ca"
+    },
+    {     
+        "http://apksmart.dino.ws:80": "00:1A:79:92:71:79"
+    },
+    {     
+        "http://pha.tv:8080": "00:1A:79:6C:2D:18"
+    },
+    {     
+        "http://live.lynxiptv.xyz": "00:1A:79:A9:73:CC"
+    },
+    {     
+        "http://n.kingshow7.com:8000": "00:1a:79:02:21:4a"
+    },
+    {     
+        "http://basic1.wishiptv.com:2089": "00:1A:79:69:D7:3E"
+    },
+    {     
+        "http://iptv.speedhd10.com:8080": "00:1A:79:12:68:4C"
+    },
+    {     
+        "http://www.magicoiptv.org:8080": "00:1A:79:38:71:ED"
+    },
+    {     
+        "http://ottsansat.com:25461": "00:1a:79:54:67:52"
+    },
+    {
+        "http://line.crystal-ott.com:80": "00:1A:79:00:CA:F1"
+    },
+    {     
+        "http://javaiptv.vip:8080": "00:1A:79:52:7A:7F"
+    },
+    {     
+        "http://vip.itvdom.com:25443": "00:1A:79:44:03:99"
+    },
+    {     
+        "http://main.dino.ws": "00:1A:79:36:37:62"
+    },
+    {     
+        "http://showflix.org:5890": "00:1a:79:e2:87:7c"
+    },
+    {     
+        "http://138.199.51.170:25461": "00:1A:79:AC:9C:2E"
+    },
+    {     
+        "http://4cms.cc:8080": "00:1A:79:51:9C:52"
+    },
+    {     
+        "http://atlas213.xyz:8080": "00:1A:79:32:27:BE"
+    },
+    {     
+        "http://tp.nxdns4.com:8080": "00:1a:79:a2:1a:99"
+    },
+    {     
+        "http://nexon-tv.org:8000": "00:1A:79:00:0b:ba"
+    },
+    {     
+        "http://mhiptv.com:8888": "00:1A:79:79:1F:1E"
+    },
+    {     
+        "http://new.ivue.co:25461": "00:1A:79:4E:E2:41"
+    },
+    {     
+        "http://ultra-box.club:80": "00:1a:79:bb:8d:a9"
+    },
+    {     
+        "http://cmsott.com:8080": "00:1a:79:04:1c:92"
+    },
+    {     
+        "http://job.avrik.xyz": "00:1a:79:52:d9:9b"
+    },
+    {     
+        "http://n.kingshow7.com:8000": "00:1A:79:00:3E:0B"
+    },
+    {     
+        "http://live.lynxiptv.xyz:80": "00:1A:79:05:B8:9B"
+    },
+    {     
+        "http://rv.therevenge.co:2083": "00:1A:79:40:56:71"
+    },
+    {     
+        "http://reddevil.life:8080": "00:1A:79:ab:d7:68"
+    },
+    {     
+        "http://ip.xtremetv.eu:8000": "00:1A:79:DE:FE:2B"
+    },
+    {     
+        "http://my.world-serveur.com:8080": "00:1a:79:14:dd:c0"
+    },
+    {     
+        "http://goldiptv.pro:80": "00:1A:79:77:DC:F6"
+    },
+    {     
+        "http://live.lynxiptv.xyz:80": "00:1A:79:A1:06:B5"
+    },
+    {     
+        "http://n.kingshow7.com:8000": "00:1A:79:5C:C5:89"
+    },
+    {     
+        "http://cname.trexlive.me:80": "00:1A:79:30:3f:e3"
+    },
+    {     
+        "http://backup.xp1.tv": "00:1A:79:A1:86:87"
+    },
+    {     
+        "http://my2ip.net:8000": "00:1A:79:c0:11:A8"
+    },
+    {     
+        "http://11223344.co:7355": "00:1A:79:0F:FF:86"
+    },
+    {     
+        "http://pha.tv:8080": "00:1A:79:2B:64:67"
+    },
+    {     
+        "http://apksmart.dino.ws:80": "00:1A:79:05:CA:B1"
+    },
+    {     
+        "http://basic1.wishiptv.com:2089": "00:1A:79:A1:B8:56"
+    },
+    {    
+        "http://kingtop10.net:7070": "00:1A:79:C2:74:BE"
+    },
+    {     
+        "http://185.243.7.13:8000": "00:1A:79:B6:F9:13"
+    },
+    {     
+        "http://line.gofast-tv.me": "00:1A:79:B7:F3:79"
+    },
+    {     
+        "http://line.sohakiller.net:80": "00:1A:79:BB:E8:9B"
+    },
+    {     
+        "http://line.darktv-pro.me:80": "00:1A:79:06:7F:4D"
+    },
+    {     
+        "http://apksmart.dino.ws:80": "00:1A:79:9F:B4:C8"
+    },
+    {     
+        "http://iptv.speedhd10.com:8080": "00:1A:79:39:C7:E8"
+    },
+    {     
+        "http://ip.sltv.xyz:8080": "00:1a:79:5d:d0:7b"
+    },
+    {     
+        "http://4cms.cc:8080": "00:1A:79:01:81:01"
+    },
+    {     
+        "http://line.crystal-ott.com:80": "00:1A:79:63:72:7D"
+    },
+    {     
+        "http://pha.tv:8080": "00:1A:79:67:9F:77"
+    },
+    {     
+        "http://line.crystal-ott.com:80": "00:1A:79:00:79:9f"
+    },
+    {     
+        "http://4cms.cc:8080": "00:1A:79:AC:3C:16"
+    },
+    {     
+        "http://atlas213.xyz:8080": "00:1A:79:A3:1F:F5"
+    },
+    {     
+        "http://txm1.flysat.live:2089": "00:1A:79:54:60:3C"
+    },
+    {      
+        "http://matrix-ott.tv:8080": "00:1a:79:ac:d6:58"
+    },
+    {
+        "http://mymag.tv:8080": "00:1A:79:4b:07:4e"
+    },
+    {
+        "http://n.kingshow7.com:8000": "00:1A:79:08:DD:FA"
+    },
+    {    
+        "http://live.lynxiptv.xyz:80": "00:1A:79:A8:65:0E"
+    },
+    {
+        "http://pro.netmos.ovh:7355": "00:1A:79:AF:A6:23"
+    },
+    {
+        "http://protv.fun:80": "00:1A:79:50:63:9E"
+    },
+    {     
+        "http://onrev.xyz": "00:1A:79:48:18:F0"
+    },
+    {     
+        "http://televes-net.com:8000": "00:1A:79:00:0B:BA"
+    },
+    {     
+        "http://www.magicoiptv.org:8080": "00:1A:79:3C:40:26"
+    },
+    {     
+        "http://foxx-tv.com:9600": "00:1A:79:C2:8F:F4"
+    },
+    {     
+        "http://11223344.co:7355": "00:1A:79:DC:B3:96"
+    },
+    {     
+        "http://live.lynxiptv.xyz:80": "00:1A:79:A8:35:8F"
+    },
+    {     
+        "http://ip.mooniptv.cz": "00:1A:79:28:A9:B0"
+    },
+    {     
+        "http://mhiptv.com:8888": "00:1a:79:fb:92:10"
+    },
+    {     
+        "http://103.71.174.62:80": "00:1A:79:29:29:29"
+    },
+    {     
+        "http://clientbox.tv:80": "00:1a:79:a5:e6:39"
+    },
+    {     
+        "http://reddevil.life:8080": "00:1A:79:58:8E:A1"
+    },
+    {     
+        "http://my2ip.net:8000": "00:1A:79:8B:2C:32"
+    },
+    {     
+        "http://apksmart.dino.ws:80": "00:1A:79:B1:51:49"
+    },
+    {     
+        "http://basic1.wishiptv.com:2089": "00:1A:79:28:A9:4F"
+    },
+    {     
+        "http://4cms.cc:8080": "00:1A:79:58:90:52"
+    },
+    {     
+        "http://rv.therevenge.co:2083": "00:1A:79:BB:23:A4"
+    },
+    {     
+        "http://11223344.co:7355": "00:1A:79:AD:74:FC"
+    },
+    {     
+        "http://kingtop10.net:7070": "00:1A:79:53:6D:01"
+    },
+    {     
+        "http://pha.tv:8080": "00:1A:79:6E:98:9C"
+    },
+    {     
+        "http://javaiptv.vip:8080": "00:1A:79:39:F6:8F"
+    },
+    {     
+        "http://ipc.proipciptv.com:8000": "00:1a:79:3f:b5:5d"
+    },
+    {     
+        "http://my2ip.net:8000": "00:1A:79:59:48:08"
+    },
+    {     
+        "http://iptv.speedhd10.com:8080": "00:1A:79:57:AB:F1"
+    },
+    {     
+        "http://o2iptv.com:8080": "00:1a:79:b0:f9:19"
+    },
+    {     
+        "http://2.revportal.eu:80": "00:1A:79:81:E4:E8"
+    },
+    {     
+        "http://txm1.flysat.live:2089": "00:1A:79:73:77:0E"
+    },
+    {     
+        "http://n.kingshow7.com:8000": "00:1A:79:00:3B:3E"
+    },
+    {     
+        "http://138.199.51.170:25461": "00:1A:79:A1:88:1D"
+    },
+    {     
+        "http://line.dino-ott.ru": "00:1A:79:cd:1f:89"
+    }
 ]
+    
